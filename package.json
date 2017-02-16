@@ -1,0 +1,11 @@
+{
+  "name": "gnats-static",
+  "version": "0.9.6-0",
+  "description": "gnats binaries for everyone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
