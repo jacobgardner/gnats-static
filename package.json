@@ -1,6 +1,6 @@
 {
   "name": "gnats-static",
-  "version": "0.9.6-1",
+  "version": "0.9.6-2",
   "description": "Node module packaged with the NATS server, gnats, binaries",
   "repository": {
     "type": "git",
