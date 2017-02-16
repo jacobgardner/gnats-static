@@ -2,6 +2,10 @@
   "name": "gnats-static",
   "version": "0.9.6-1",
   "description": "Node module packaged with the NATS server, gnats, binaries",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobgardner/gnats-static"
+  },
   "main": "index.js",
   "author": "Jacob Gardner <jacob.v.gardner@gmail.com>",
   "license": "ISC"
